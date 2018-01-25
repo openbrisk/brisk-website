@@ -1,2 +1,2 @@
 # brisk-website
-The website for OpenBrisk.
+The website for http://openbrisk.org.
